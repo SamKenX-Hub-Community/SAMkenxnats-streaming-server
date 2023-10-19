@@ -9,12 +9,12 @@ require (
 	github.com/hashicorp/go-msgpack/v2 v2.1.0
 	github.com/hashicorp/raft v1.4.0
 	github.com/lib/pq v1.10.7
-	github.com/nats-io/nats-server/v2 v2.9.15
-	github.com/nats-io/nats.go v1.25.0
+	github.com/nats-io/nats-server/v2 v2.9.23
+	github.com/nats-io/nats.go v1.28.0
 	github.com/nats-io/nuid v1.0.1
 	github.com/nats-io/stan.go v0.10.4
 	github.com/prometheus/procfs v0.8.0
 	go.etcd.io/bbolt v1.3.6
-	golang.org/x/crypto v0.6.0
-	golang.org/x/sys v0.5.0
+	golang.org/x/crypto v0.12.0
+	golang.org/x/sys v0.11.0
 )
